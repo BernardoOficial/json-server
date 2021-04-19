@@ -10,7 +10,7 @@ function iniciarRequest(evento) {
     const idade = evento.target.idade.value;
     console.log(nome, sobrenome, idade);
 
-    fetch("http://localhost:3000/tarefas", {
+    fetch("http://localhost:8000/tarefas", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
