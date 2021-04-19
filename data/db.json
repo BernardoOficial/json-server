@@ -1,0 +1,36 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Bernardo",
+      "sobrenome": "Pereira Oliveira",
+      "age": 20
+    },
+    {
+      "id": 2,
+      "name": "Breno",
+      "sobrenome": "Pereira Oliveira",
+      "age": 18
+    },
+    {
+      "id": 3,
+      "name": "Bruno",
+      "sobrenome": "Pereira Oliveira",
+      "age": 14
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "name": "Cobalt",
+      "marca": "Chevrolet",
+      "ano": 2014
+    },
+    {
+      "id": 2,
+      "name": "Prisma",
+      "marca": "Chevrolet",
+      "ano": 2017
+    }
+  ]
+}
